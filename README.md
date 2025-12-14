@@ -10,7 +10,7 @@ This project has been recognized for its innovative approach in AI and assistive
 
 Selected as the top project among 20+ teams from leading universities (ODTÜ, Bilkent, TOBB).
 
-🥈 2nd Place - Balkan AI Competition (FonPrime) | July 2024
+🥈 2nd Place - Orscelik Balkan AI Competition 2024 (FonPrime) | July 2024
 
 **Overview**
 
