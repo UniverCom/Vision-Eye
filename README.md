@@ -32,6 +32,6 @@ This repository serves as a conceptual showcase and research overview of the Vis
 Due to ongoing patent applications and commercialization processes, the source code and detailed architectural diagrams are currently classified and not open for public use. The technical implementation details remain proprietary.
 
 
-**Erdeniz Cokren AI Engineer & Researcher**
+**Erdeniz Cokren | AI Engineer & Researcher**
 
 © 2025 Vision-Eye Project. All Rights Reserved.
